@@ -1,0 +1,7 @@
+C:\Users\student\OneDrive - adamson.edu.ph\Desktop\M_LabExam_Monteagudo\M_LabExam_Monteagudo\bin\Debug\M_LabExam_Monteagudo.exe.config
+C:\Users\student\OneDrive - adamson.edu.ph\Desktop\M_LabExam_Monteagudo\M_LabExam_Monteagudo\bin\Debug\M_LabExam_Monteagudo.exe
+C:\Users\student\OneDrive - adamson.edu.ph\Desktop\M_LabExam_Monteagudo\M_LabExam_Monteagudo\bin\Debug\M_LabExam_Monteagudo.pdb
+C:\Users\student\OneDrive - adamson.edu.ph\Desktop\M_LabExam_Monteagudo\M_LabExam_Monteagudo\obj\Debug\M_LabExam_Monteagudo.csprojAssemblyReference.cache
+C:\Users\student\OneDrive - adamson.edu.ph\Desktop\M_LabExam_Monteagudo\M_LabExam_Monteagudo\obj\Debug\M_LabExam_Monteagudo.csproj.CoreCompileInputs.cache
+C:\Users\student\OneDrive - adamson.edu.ph\Desktop\M_LabExam_Monteagudo\M_LabExam_Monteagudo\obj\Debug\M_LabExam_Monteagudo.exe
+C:\Users\student\OneDrive - adamson.edu.ph\Desktop\M_LabExam_Monteagudo\M_LabExam_Monteagudo\obj\Debug\M_LabExam_Monteagudo.pdb
